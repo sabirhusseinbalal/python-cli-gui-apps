@@ -6,13 +6,21 @@ progressing from beginner to advanced real-world projects.
 ## 📌 Planned Projects
 
 - CLI Based Todo App
-- Terminal Based Hangman Game
-- Calculator App
-- Stopwatch Application
-- Digital Clock (Tkinter)
-- Rock Paper Scissors
-- Tic Tac Toe
-- Tic Tac Toe with AI (logic-based, not ML)
+1. CLI Todo Manager (SQLite)		
+2. Expense Tracker		
+3. Habit Tracker		
+4. Markdown Notes Manager		
+5. Pomodoro App		
+6. Desktop Reminder App		
+7. File Search GUI Tool		
+8. Log Analyzer Tool		
+9. Clipboard Manager		
+10. Personal Dashboard		
+11. Task Time Tracker		
+12. Bookmark Manager		
+13. Password Manager (local encrypted)		
+14. Mini CRM CLI		
+
 
 ### Clone the repository using the command:
    ```bash
