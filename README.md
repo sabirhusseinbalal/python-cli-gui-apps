@@ -4,22 +4,21 @@ This repository is part of a structured Python learning roadmap,
 progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
-
-- CLI Based Todo App
-1. CLI Todo Manager (SQLite)		
-2. Expense Tracker		
-3. Habit Tracker		
-4. Markdown Notes Manager		
-5. Pomodoro App		
-6. Desktop Reminder App		
-7. File Search GUI Tool		
-8. Log Analyzer Tool		
-9. Clipboard Manager		
-10. Personal Dashboard		
-11. Task Time Tracker		
-12. Bookmark Manager		
-13. Password Manager (local encrypted)		
-14. Mini CRM CLI		
+1. CLI Todo App ✔ DONE
+2. Expense Tracker ✔ DONE
+3. Habit Tracker ✔ DONE
+4. Markdown Notes Manager
+5. Pomodoro Timer
+6. Task Time Tracker
+7. Clipboard Manager
+8. Bookmark Manager
+9. Log Analyzer Tool
+10. Password Manager (CLI encrypted)
+11. Mini CRM CLI
+12. CLI Todo + SQLite upgrade ⭐ (VERY IMPORTANT)
+13. Personal Dashboard (CLI aggregation)
+14. Desktop Reminder App (Tkinter GUI)
+15. File Search GUI Tool
 
 
 ### Clone the repository using the command:
