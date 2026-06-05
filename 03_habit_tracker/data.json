@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Drink Water",
+        "id": "ca428d39-261d-4dcf-ad30-c0e320a8c106",
+        "history": [
+            "2026-06-04 15:53:15.375008",
+            "2026-06-04 15:53:44.766719"
+        ],
+        "completed": 1
+    },
+    {
+        "name": "Milk+Almonds",
+        "id": "b47dbfe1-a80c-475a-b628-6a9db22e04f7",
+        "history": [
+            "2026-06-04 15:53:20.383067"
+        ],
+        "completed": 0
+    },
+    {
+        "name": "10 Push-up",
+        "id": "7bd9cba2-278d-41ce-b7b7-2793868cabc3",
+        "history": [
+            "2026-06-04 15:53:28.255007"
+        ],
+        "completed": 0
+    },
+    {
+        "name": "a",
+        "id": "7f1e00b5-c14e-43e1-87b9-e3184293177b",
+        "history": [
+            "2026-06-04 15:55:26"
+        ],
+        "completed": 0
+    }
+]
