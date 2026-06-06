@@ -4,12 +4,12 @@ This repository is part of a structured Python learning roadmap,
 progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
-1. CLI Todo App ✔ DONE
-2. Expense Tracker ✔ DONE
-3. Habit Tracker ✔ DONE
-4. Markdown Notes Manager
-5. Pomodoro Timer
-6. Task Time Tracker
+1. CLI Todo App ✔
+2. Expense Tracker ✔
+3. Habit Tracker ✔
+4. Simple Notes Manager ✔
+5. Pomodoro Timer ✔
+6. Task Time Tracker ✔
 7. Clipboard Manager
 8. Bookmark Manager
 9. Log Analyzer Tool
