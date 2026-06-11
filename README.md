@@ -10,10 +10,10 @@ progressing from beginner to advanced real-world projects.
 4. Simple Notes Manager ✔
 5. Pomodoro Timer ✔
 6. Task Time Tracker ✔
-7. Clipboard Manager
-8. Bookmark Manager
-9. Log Analyzer Tool
-10. Password Manager (CLI encrypted)
+7. Clipboard Manager  ✔
+8. Bookmark Manager  ✔
+9. URL Shortener  ✔
+10. Account Vault Simulator  ✔
 11. Mini CRM CLI
 12. CLI Todo + SQLite upgrade ⭐ (VERY IMPORTANT)
 13. Personal Dashboard (CLI aggregation)
