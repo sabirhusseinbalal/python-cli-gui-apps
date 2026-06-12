@@ -14,11 +14,10 @@ progressing from beginner to advanced real-world projects.
 8. Bookmark Manager  ✔
 9. URL Shortener  ✔
 10. Account Vault Simulator  ✔
-11. Mini CRM CLI
-12. CLI Todo + SQLite upgrade ⭐ (VERY IMPORTANT)
-13. Personal Dashboard (CLI aggregation)
-14. Desktop Reminder App (Tkinter GUI)
-15. File Search GUI Tool
+11. CLI Todo + SQLite upgrade ⭐ (VERY IMPORTANT)
+12. Personal Dashboard (CLI aggregation)
+13. Desktop Reminder App (Tkinter GUI)
+14. File Search GUI Tool
 
 
 ### Clone the repository using the command:
