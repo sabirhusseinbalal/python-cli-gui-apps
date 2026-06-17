@@ -14,9 +14,9 @@ progressing from beginner to advanced real-world projects.
 8. Bookmark Manager  ✔
 9. URL Shortener  ✔
 10. Account Vault Simulator  ✔
-11. CLI Todo + SQLite upgrade ⭐ (VERY IMPORTANT)
-12. Personal Dashboard (CLI aggregation)
-13. Desktop Reminder App (Tkinter GUI)
+11. gui_todo_sqlite_app ✔
+12. Personal Dashboard
+13. Desktop Reminder App 
 14. File Search GUI Tool
 
 
