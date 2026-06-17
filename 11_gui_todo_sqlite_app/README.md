@@ -32,7 +32,7 @@ This project was built step-by-step to understand how real-world desktop applica
 ---
 
 ## GUI Preview
-![GUI Preview](image.png)
+![GUI Preview](https://github.com/sabirhusseinbalal/python-cli-gui-apps/blob/main/11_gui_todo_sqlite_app/image.PNG)
 
 ---
 
