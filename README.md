@@ -16,9 +16,10 @@ progressing from beginner to advanced real-world projects.
 9. URL Shortener ✔
 10. Account Manager ✔
 11. GUI Todo + SQLite  ✔
-13. Personal Dashboard 
-14. Desktop Reminder App
-15. File Search GUI Tool
+12. Personal Dashboard ✔
+13. Desktop Reminder App ✔
+14. File Search GUI Tool
+15. Tic Tac Game 
 
 ### Clone the repository using the command:
    ```bash
