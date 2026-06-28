@@ -11,55 +11,67 @@ By building every project from scratch, I learned how different Python concepts 
 
 ## Projects
 
-01. **[CLI Todo App](01_cli_todo_app/)** – File Integrity Checker (SHA256)
-02. **[Secure File Vault](02_secure_file_vault/)** – Encrypts and stores files securely using password-based protection.
-03. **[Password Strength Analyzer](03_password_strength_analyzer/)** – Analyzes password strength using different security checks.
-04. **[JWT Token Validator](04_jwt_token_validator/)** – Reads and validates JWT token payloads and signatures.
-05. **[TOTP 2FA Generator](05_totp_2fa_generator/)** – Generates time-based OTP codes for simple 2FA login simulation.
-06. **[Log Monitoring Tool](06_log_monitoring_tool/)** – Scans log files and detects suspicious login activity.
-07. **[Port Scanner (Educational)](07_port_scanner_educational/)** – Checks common ports on a target domain.
-08. **[Encrypted Backup System](08_encrypted_backup_system/)** – Creates encrypted backups of files and folders.
-09. **[Secure Notes CLI](09_secure_notes_cli/)** – Stores encrypted notes securely inside local files.
-10. **[API Key Vault Manager](10_api_key_vault_manager/)** – Encrypts and manages API keys locally.
-11. **[Secure File Shredder](11_secure_file_shredder/)** – Securely overwrites and deletes files.
-12. **[SSL Expiry Monitor](12_ssl_expiry_monitor/)** – Checks SSL certificate information and expiry dates.
-13. **[JWT Token Manager](13_jwt_token_manager/)** – Creates, validates, deletes, and manages JWT tokens locally.
-14. **[Security Toolkit](14_security_toolkit/)** – A combined toolkit containing multiple small security utilities.
+01. **[CLI Todo App](01_cli_todo_app/)** – Create, complete, and manage daily tasks from the terminal.
+02. **[Expense Tracker](02_expense_tracker/)** – Record income and expenses with simple financial summaries.
+03. **[Habit Tracker](03_habit_tracker/)** – Track daily habits and build consistent routines.
+04. **[Markdown Notes Manager](04_simple_notes_manager/)** – Create, edit, search, and organize Markdown notes.
+05. **[Pomodoro Timer](05_pomodoro_timer/)** – Improve focus using Pomodoro work and break sessions.
+06. **[Task Time Tracker](06_task_time_tracker/)** – Measure how much time is spent on different tasks.
+07. **[Clipboard Manager](07_clipboard_manager/)** – Save and reuse clipboard history.
+08. **[Bookmark Manager](08_bookmark_manager)** – Organize frequently used websites and links.
+09. **[URL Shortener](09_url_shortener/)** – Generate and manage shortened URLs.
+10. **[Account Manager](10_account_vault_simulator)** – Store and manage account information in a simple local system.
+11. **[GUI Todo + SQLite](11_gui_todo_sqlite_app/)** – Desktop todo application with SQLite database support.
+12. **[Personal Dashboard](12_mini_personal_dashboard/)** – Displays useful personal information inside a single desktop dashboard.
+13. **[Desktop Reminder App](13_desktop_reminder_app/)** – Time-based reminder application with desktop notifications.
+14. **[File Search](14_file_search)** – Search files by filename, extension, size, or file content through a graphical interface.
 
 ---
 
 ### Main Topics Covered
-- Hashing
-- Encryption
-- File security
-- Authentication
-- JWT tokens
-- OTP systems
-- SSL certificates
-- Network basics
-- Port scanning
-- Log analysis
-- Secure deletion
-- Security utilities
+- Command-Line Interface (CLI)
+- Desktop GUI development
+- PySide6 widgets
+- Event-driven programming
+- SQLite database integration
+- Timers and background tasks
+- File searching
+- File system operations
+- Input validation
+- Local data storage
+- Desktop notifications
+- Application structure
+- Error handling
+- User interface design
 
 ---
 
 ### Skills Improved
-- Python file handling
-- JSON storage systems
-- Secure coding basics
-- CLI application structure
-- Error handling
-- Authentication logic
-- Encryption workflows
-- Network communication
-- Real-world security concepts
+- Python application design
+- GUI development using PySide6
+- SQLite database programming
+- File handling with pathlib
+- Event-driven programming
+- Object-Oriented Programming (OOP)
+- Working with timers
+- Organizing larger Python projects
+- User input validation
+- Real-world desktop application workflows
 
 ### Clone the repository using the command:
    ```bash
    git clone https://github.com/Sabirhusseinbalal/python-cli-gui-apps.git
    ```
 
+---
+### Notes
+- These projects were built for learning purposes.
+- Every application was created step by step while learning Python.
+- The focus is on understanding how desktop applications work internally.
+- Many projects are simplified versions of real software but demonstrate the same core ideas.
+- The GUI applications helped me understand how events, widgets, databases, and background tasks work together in desktop development.
+
+---
 
 ## 🐍 Python Projects Roadmap – From Basics to Advanced.
 1. [Python Basics – Mini Projects](https://github.com/sabirhusseinbalal/python-basics-mini-projects)
