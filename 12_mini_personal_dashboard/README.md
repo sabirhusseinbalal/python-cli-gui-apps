@@ -35,7 +35,7 @@ This project was built to understand how real-world “system dashboards” work
 ---
 
 ## GUI Preview
-![GUI Preview](image.png)
+![GUI Preview](https://github.com/sabirhusseinbalal/python-cli-gui-apps/blob/main/12_mini_personal_dashboard/image.PNG)
 
 ---
 
