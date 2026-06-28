@@ -43,7 +43,7 @@ The main goal of this project is to understand how GUI applications interact wit
 ---
 
 ## GUI Preview
-![GUI Preview](image.png)
+![GUI Preview](https://github.com/sabirhusseinbalal/python-cli-gui-apps/blob/main/14_file_search/image.PNG)
 
 ---
 
