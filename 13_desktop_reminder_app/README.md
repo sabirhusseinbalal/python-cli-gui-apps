@@ -50,7 +50,7 @@ This project was built to understand how real-time background checking + GUI + d
 ---
 
 ## GUI Preview
-![GUI Preview](image.png)
+![GUI Preview](https://github.com/sabirhusseinbalal/python-cli-gui-apps/blob/main/13_desktop_reminder_app/image.PNG)
 
 ---
 
