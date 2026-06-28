@@ -67,9 +67,9 @@ By building every project from scratch, I learned how different Python concepts 
 ### Notes
 - These projects were built for learning purposes.
 - Every application was created step by step while learning Python.
-- The focus is on understanding how desktop applications work internally.
-- Many projects are simplified versions of real software but demonstrate the same core ideas.
-- The GUI applications helped me understand how events, widgets, databases, and background tasks work together in desktop development.
+- The focus is understanding how real applications are designed and organized.
+- Many projects are simplified versions of real software, but they demonstrate the same core ideas.
+- Through these projects I practiced working with command-line tools, GUI development, databases, timers, file systems, and event-driven programming.
 
 ---
 
