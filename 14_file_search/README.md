@@ -1,4 +1,4 @@
-# File Search
+# File Search GUI Tool
 
 ## Description
 This project is a simple desktop file search application built using Python and PySide6.
