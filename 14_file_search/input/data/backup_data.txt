@@ -1,0 +1,3 @@
+Backup completed successfully.
+All data saved correctly.
+No error detected during process.
