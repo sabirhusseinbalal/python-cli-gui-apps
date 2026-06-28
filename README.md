@@ -24,7 +24,7 @@ By building every project from scratch, I learned how different Python concepts 
 11. **[GUI Todo + SQLite](11_gui_todo_sqlite_app/)** – Desktop todo application with SQLite database support.
 12. **[Personal Dashboard](12_mini_personal_dashboard/)** – Displays useful personal information inside a single desktop dashboard.
 13. **[Desktop Reminder App](13_desktop_reminder_app/)** – Time-based reminder application with desktop notifications.
-14. **[File Search](14_file_search)** – Search files by filename, extension, size, or file content through a graphical interface.
+14. **[File Search GUI Tool](14_file_search)** – Search files by filename, extension, size, or file content through a graphical interface.
 
 ---
 
