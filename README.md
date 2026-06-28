@@ -58,12 +58,15 @@ By building every project from scratch, I learned how different Python concepts 
 - User input validation
 - Real-world desktop application workflows
 
+---
+
 ### Clone the repository using the command:
    ```bash
    git clone https://github.com/Sabirhusseinbalal/python-cli-gui-apps.git
    ```
 
 ---
+
 ### Notes
 - These projects were built for learning purposes.
 - Every application was created step by step while learning Python.
